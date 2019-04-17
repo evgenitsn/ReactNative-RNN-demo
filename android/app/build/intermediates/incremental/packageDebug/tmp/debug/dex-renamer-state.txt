@@ -1,0 +1,4 @@
+#Wed Apr 17 23:45:25 EEST 2019
+base.0=/Users/evgeni.tsn/Desktop/AwesomeProject/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
